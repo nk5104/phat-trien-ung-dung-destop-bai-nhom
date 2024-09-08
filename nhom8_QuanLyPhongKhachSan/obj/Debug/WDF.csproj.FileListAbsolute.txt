@@ -1,0 +1,15 @@
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.exe.config
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.exe
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.pdb
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.AssemblyReference.cache
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.SuggestedBindingRedirects.cache
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Dat_Nhan_Phong.resources
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\DemoQLP.frmSoDoPhong.resources
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.ThanhToan.resources
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Properties.Resources.resources
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.QuanLyPhong.resources
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Thêm_Phòng.resources
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.GenerateResource.cache
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.CoreCompileInputs.cache
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.exe
+D:\bài lab\phát triển ứng dụng desktop\bài nhóm\nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.pdb
