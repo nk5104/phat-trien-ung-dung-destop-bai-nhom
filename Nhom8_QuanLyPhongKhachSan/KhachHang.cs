@@ -16,11 +16,5 @@ namespace WDF
         {
             InitializeComponent();
         }
-
-        private void btnThemHP_Click(object sender, EventArgs e)
-        {
-            ThemLoaiKH form = new ThemLoaiKH();
-            form.ShowDialog();
-        }
     }
 }

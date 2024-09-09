@@ -131,5 +131,11 @@ namespace DemoQLP
             frmQuanLyNhanVien form = new frmQuanLyNhanVien();
             form.Show();
         }
+
+        private void quảnLýKháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            KhachHang form = new KhachHang();
+            form.Show();
+        }
     }
 }

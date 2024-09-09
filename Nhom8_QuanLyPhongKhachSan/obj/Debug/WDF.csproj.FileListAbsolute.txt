@@ -30,3 +30,41 @@ D:\PhatTrienUngDung\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.CoreCompileIn
 D:\PhatTrienUngDung\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.exe
 D:\PhatTrienUngDung\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.pdb
 D:\PhatTrienUngDung\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.pdb
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.exe.config
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.exe
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.pdb
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.AssemblyReference.cache
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmDatPhong.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmNhanPhong.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmQuanLyNhanVien.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmTrangChu.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\DemoQLP.frmSoDoPhong.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.ThanhToan.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Properties.Resources.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.QuanLyPhong.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Thêm_Phòng.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.GenerateResource.cache
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.CoreCompileInputs.cache
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.exe
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.pdb
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.ThemLoaiKH.resources
+D:\PhatTrienUngDung\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.KhachHang.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.exe.config
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.exe
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\bin\Debug\WDF.pdb
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.AssemblyReference.cache
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmDatPhong.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmNhanPhong.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmQuanLyNhanVien.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.frmTrangChu.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.KhachHang.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\DemoQLP.frmSoDoPhong.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.ThanhToan.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Properties.Resources.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.QuanLyPhong.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.ThemLoaiKH.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.Thêm_Phòng.resources
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.GenerateResource.cache
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.csproj.CoreCompileInputs.cache
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.exe
+F:\đại học\phát triển ứng dụng desktop\bài nhóm\Nhom8_QLKS-main\Nhom8_QuanLyPhongKhachSan\obj\Debug\WDF.pdb

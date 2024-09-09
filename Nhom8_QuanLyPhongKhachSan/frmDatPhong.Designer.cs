@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.grbDatPhong = new System.Windows.Forms.GroupBox();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -48,13 +50,11 @@
             this.dateTimePicker6 = new System.Windows.Forms.DateTimePicker();
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.label21 = new System.Windows.Forms.Label();
-            this.txtTenKhach = new System.Windows.Forms.TextBox();
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
             this.txtSoDienThoai = new System.Windows.Forms.TextBox();
             this.label24 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.txtTenKhach = new System.Windows.Forms.TextBox();
             this.grbDatPhong.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -90,6 +90,30 @@
             this.grbDatPhong.TabStop = false;
             this.grbDatPhong.Text = "Đặt Phòng ";
             this.grbDatPhong.Enter += new System.EventHandler(this.grbDatPhong_Enter);
+            // 
+            // button4
+            // 
+            this.button4.Image = global::WDF.Properties.Resources.refresh1;
+            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button4.Location = new System.Drawing.Point(321, 691);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(101, 42);
+            this.button4.TabIndex = 44;
+            this.button4.Text = "Làm Mới";
+            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Image = global::WDF.Properties.Resources.accept;
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(129, 691);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(133, 42);
+            this.button3.TabIndex = 44;
+            this.button3.Text = "Đặt Phòng";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button3.UseVisualStyleBackColor = true;
             // 
             // dataGridView1
             // 
@@ -266,16 +290,6 @@
             this.label21.TabIndex = 29;
             this.label21.Text = "Số CCCD";
             // 
-            // txtTenKhach
-            // 
-            this.txtTenKhach.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.txtTenKhach.Location = new System.Drawing.Point(129, 79);
-            this.txtTenKhach.Name = "txtTenKhach";
-            this.txtTenKhach.ReadOnly = true;
-            this.txtTenKhach.Size = new System.Drawing.Size(200, 22);
-            this.txtTenKhach.TabIndex = 28;
-            this.txtTenKhach.TabStop = false;
-            // 
             // label22
             // 
             this.label22.AutoSize = true;
@@ -312,29 +326,15 @@
             this.label24.TabIndex = 24;
             this.label24.Text = "Số điện thoại";
             // 
-            // button3
+            // txtTenKhach
             // 
-            this.button3.Image = global::WDF.Properties.Resources.accept;
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(129, 691);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(133, 42);
-            this.button3.TabIndex = 44;
-            this.button3.Text = "Đặt Phòng";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.Image = global::WDF.Properties.Resources.refresh1;
-            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(321, 691);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(101, 42);
-            this.button4.TabIndex = 44;
-            this.button4.Text = "Làm Mới";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button4.UseVisualStyleBackColor = true;
+            this.txtTenKhach.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.txtTenKhach.Location = new System.Drawing.Point(129, 79);
+            this.txtTenKhach.Name = "txtTenKhach";
+            this.txtTenKhach.ReadOnly = true;
+            this.txtTenKhach.Size = new System.Drawing.Size(200, 22);
+            this.txtTenKhach.TabIndex = 28;
+            this.txtTenKhach.TabStop = false;
             // 
             // frmDatPhong
             // 
@@ -373,12 +373,12 @@
         private System.Windows.Forms.DateTimePicker dateTimePicker6;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.TextBox txtTenKhach;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.TextBox txtSoDienThoai;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox txtTenKhach;
     }
 }
